@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=dannyList
+comment1.params=
+comment1.target=dannyList()
+comment2.params=added
+comment2.target=void\ add(dihNode)
+comment3.params=
+comment3.target=void\ clear()
+comment4.params=name
+comment4.target=void\ remove(java.lang.String)
+comment5.params=existing\ added
+comment5.target=void\ addAfter(java.lang.String,\ dihNode)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PQS
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=queue
+comment2.target=void\ getMin(java.util.PriorityQueue)
+comment3.params=queue
+comment3.target=void\ getNaturalOrder(java.util.PriorityQueue)
+comment4.params=queue
+comment4.target=void\ toString(java.util.PriorityQueue)
+numComments=5
